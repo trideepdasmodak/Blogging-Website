@@ -9,7 +9,6 @@
       <h1> Blog </h1> <hr> 
       <?php include_once('plugin/blog.php'); ?>
     </div>
-    
    <?php  include_once('site_script.php'); ?>
   </body>
 </html>
